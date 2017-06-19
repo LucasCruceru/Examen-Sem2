@@ -1,6 +1,11 @@
 .navbar-default{
     background-image: linear-gradient(to bottom, #7b7b7b 0%, #ffffff 100%)
 }
+.head{
+    font-family: 'Oswald', sans-serif;
+    background-color: #c4c4c4;
+    border: 5px solid black;
+}
 .centered {
     text-align: center;
 
