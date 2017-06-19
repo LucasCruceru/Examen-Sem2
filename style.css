@@ -16,5 +16,9 @@
 }
 
 body{
-    background:#a5a5a5;
+    background:#d1d1d1;
+}
+
+.shadowed {
+    text-shadow: 2px 2px #959595;
 }
