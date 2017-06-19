@@ -14,10 +14,7 @@
 .border-bottom{
     border-bottom: 2px solid black;
 }
-.centered {
-    text-align: center;
 
-}
-.a{
-    text-align: justify
+body{
+    background:#a5a5a5;
 }
