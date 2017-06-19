@@ -5,6 +5,14 @@
     font-family: 'Oswald', sans-serif;
     background-color: #c4c4c4;
     border: 5px solid black;
+    color: red;
+}
+.boxed{
+    border: 5px solid black;
+}
+
+.border-bottom{
+    border-bottom: 2px solid black;
 }
 .centered {
     text-align: center;
